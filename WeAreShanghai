@@ -1,1 +1,63 @@
-WE ARE SHANGHAI
+<!DOCTYPE html>
+ <html>
+   <head>
+
+
+     <title>We Are Shanghai</title>
+     <link rel="stylesheet" type="text/css"
+     href="style.css">
+    </head>
+
+
+
+
+    <body>
+      <div id="header">
+       <div class="container">
+        <a id="header-title" href="index.html">Home</a>
+         <ul id="header-nav">
+          <li> <a href="about.html">About</a> </li>
+          <li> <a href="mailto:weareshanghai@gmail.com">Contact</a> </li>
+        </ul>
+       </div>
+     </div>
+
+
+
+
+     <div id="content">
+      <div class="container">
+        <div class="about">
+          <div class="about-author">
+            <img class="about-img" src="SCB.jpg">
+
+          </div>
+          <h1 class="about-title">We are Shanghai</h1>
+          <div class="about-content">
+            <p>Hello! Welcome to We Are Shanghai's demo page.</p>
+            <p>This is <em>literally</em> just a <strong>demo</strong>, to show what I'm going to do now!</p>
+        </div>
+       </div>
+     </div>
+
+
+
+
+
+
+     <div id="footer">
+      <div class="container">
+         <div class="column">
+           <h4>My Sounds</h4>
+           <p>
+             <a href="https://weareshanghai.bandcamp.com">Bandcamp</a>
+           </p>
+        </div>
+         <div class="column">
+           <h4>About Us</h4>
+            <p>We Are Shanghai is an annual open-call compilation for Shanghai-based musicians and artists, intended to provide a snapshot to the world of the city's musical creativity in any given year.</p>
+          </div>
+        </div>
+       </div>
+    </body>
+ </html>
