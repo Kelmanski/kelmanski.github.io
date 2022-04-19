@@ -8,13 +8,13 @@ body {
 }
 
 #header {
-  background-color: #404040;
+  background-color: #6495ED;
   height: 150px;
   line-height: 150px;
 }
 
 #header a {
-  color: ##6495ED;
+  color: #black;
   text-decoration: none;
 
   text-transform: uppercase;
