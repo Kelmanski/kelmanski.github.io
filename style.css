@@ -1,14 +1,14 @@
 @import url(https://fonts.googleapis.com/css2?family=Titillium+Web:400,700);
 
 body {
-  color: #DarkSlateBlue;
+  color: #404040;
   margin: 1;
 
   font-family: 'Titillium Web', sans-serif;
 }
 
 #header {
-  background-color: #404040;
+  background-color: #DarkSlateBlue;
   height: 150px;
   line-height: 150px;
 }
