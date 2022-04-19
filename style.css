@@ -2,7 +2,7 @@
 
 body {
   color: #555;
-  margin: 0;
+  margin: 1;
 
   font-family: 'Montsrrat', sans-serif;
 }
@@ -14,7 +14,7 @@ body {
 }
 
 #header a {
-  color: white;
+  color: #4B0082;
   text-decoration: none;
 
   text-transform: uppercase;
