@@ -132,8 +132,8 @@ p {
 }
 
 .dark, .light {
- width: 100px;
- height: 100px;
+ width: 125px;
+ height: 125px;
  border: none;
 }
 
@@ -146,5 +146,6 @@ p {
 }
 
 .peabody {
+  margin-left: 16px;
   background-color: rgb(30, 26, 53);
 }
