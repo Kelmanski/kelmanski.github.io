@@ -1926,7 +1926,7 @@ input, select, textarea {
 			}
 
 				ul.icons li a:hover {
-					color: #ef8376;
+					color: #B22222;
 				}
 
 /* Form */
@@ -2068,7 +2068,7 @@ input, select, textarea {
 		button:hover,
 		.button:hover {
 			color: #fff;
-			background: #ef8376;
+			background: #B22222;
 		}
 
 		input[type="button"].alt,
@@ -2366,7 +2366,7 @@ input, select, textarea {
 			}
 
 			.dropotron li:hover {
-				color: #ef8376;
+				color: #B22222;
 			}
 
 			.dropotron li a, .dropotron li span {
