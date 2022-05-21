@@ -2495,7 +2495,7 @@ input, select, textarea {
 
 
 	.carousel {
-		
+		align: center;
 		overflow: hidden;
 		padding: 2em 0 2em 0;
 		margin-bottom: 0;
