@@ -132,7 +132,7 @@ p {
 }
 
 .dark, .light {
- display: inline-block;
+ 
  width: 125px;
  height: 125px;
  border: none;
@@ -144,6 +144,10 @@ p {
 }
 
 .light {
- background-color: black;
+ background-color: #404040;
 }
 
+.bands {
+ display: inline-block;
+padding: 20,20,20,20;
+}
