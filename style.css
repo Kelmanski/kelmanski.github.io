@@ -135,6 +135,7 @@ p {
  width: 125px;
  height: 125px;
  border: none;
+ padding: 20px;
 }
 
 .dark {
@@ -145,7 +146,3 @@ p {
  background-color: black;
 }
 
-.peabody {
-  padding-left: 20px;
-  background-color: rgb(30, 26, 53);
-}
