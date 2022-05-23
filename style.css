@@ -132,6 +132,7 @@ p {
 }
 
 .dark, .light {
+ display: inline-block;
  width: 125px;
  height: 125px;
  border: none;
@@ -139,7 +140,7 @@ p {
 }
 
 .dark {
- background-color: blue;
+ background-color: #333333;
 }
 
 .light {
