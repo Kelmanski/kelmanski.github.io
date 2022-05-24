@@ -45,6 +45,7 @@ body {
 }
 
 .container {
+  background-color: #15181c;
   max-width: 1000px;
   margin: 0 auto;
 }
