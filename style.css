@@ -132,8 +132,8 @@ p {
   border-radius: 50%;
 }
 
-.dark, .light {
- display: inline block;
+.dark,.light {
+ display: block;
  width: 145px;
  height: 65px;
  border: none;
