@@ -133,7 +133,7 @@ p {
 }
 
 .dark, .light {
- 
+ display: inline;
  width: 145px;
  height: 65px;
  border: none;
