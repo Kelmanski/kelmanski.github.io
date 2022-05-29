@@ -29,7 +29,7 @@ body {
   display: block;
   float: left;
 
-  font-size: 20px;
+  font-size: 30px;
   font-weight: bold;
 }
 
@@ -62,12 +62,12 @@ body {
 }
 
 #footer h4 {
-  color: white;
+  color: #ffffff;
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
 #footer p {
-  color: white;
+  color: #ffffff;
 }
 
 .column {
